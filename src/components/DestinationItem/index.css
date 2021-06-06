@@ -1,0 +1,22 @@
+.destination-div {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 8px;
+  margin: 10px;
+  width: 260px;
+}
+
+.destination-image {
+  max-width: 100%;
+}
+
+.destination-name {
+  color: #000000;
+  font-size: 20px;
+  font-weight: 400;
+  padding: 8px 5px 5px 3px;
+  margin: 2px;
+}
